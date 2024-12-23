@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node index.ts",
-    "test": "jest"
+    "test:all": "jest src/tests",
+    "test": "jest src/tests/10-the-elfish-assembler.test.ts"
   },
   "keywords": [],
   "author": "",

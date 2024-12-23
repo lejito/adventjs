@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/10-the-elfish-assembler.test.ts"
+    "test": "jest src/tests/11-filenames-encoded.test.ts"
   },
   "keywords": [],
   "author": "",

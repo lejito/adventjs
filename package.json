@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/11-filenames-encoded.test.ts"
+    "test": "jest src/tests/12-how-much-does-the-tree-cost.test.ts"
   },
   "keywords": [],
   "author": "",

@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/15-drawing-tables.test.ts"
+    "test": "jest src/tests/16-cleaning-the-snow-path.test.ts"
   },
   "keywords": [],
   "author": "",

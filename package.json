@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/13-is-the-robot-back.test.ts"
+    "test": "jest src/tests/14-weaving-the-reno.test.ts"
   },
   "keywords": [],
   "author": "",

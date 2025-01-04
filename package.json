@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/17-grinchs-bombs.test.ts"
+    "test": "jest src/tests/18-santas-magic-agenda.test.ts"
   },
   "keywords": [],
   "author": "",

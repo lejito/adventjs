@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/20-find-missing-and-duplicate-gifts.test.ts"
+    "test": "jest src/tests/21-calculate-the-height-of-the-christmas-tree.test.ts"
   },
   "keywords": [],
   "author": "",

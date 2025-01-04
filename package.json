@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/18-santas-magic-agenda.test.ts"
+    "test": "jest src/tests/19-stack-magical-boxes-to-deliver-gifts.test.ts"
   },
   "keywords": [],
   "author": "",

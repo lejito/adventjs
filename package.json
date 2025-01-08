@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/24-check-if-trees-are-magical-mirrors.test.ts"
+    "test": "jest src/tests/25-execute-the-magical-language.test.ts"
   },
   "keywords": [],
   "author": "",

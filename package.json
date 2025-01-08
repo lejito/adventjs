@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/23-find-the-missing-numbers.test.ts"
+    "test": "jest src/tests/24-check-if-trees-are-magical-mirrors.test.ts"
   },
   "keywords": [],
   "author": "",

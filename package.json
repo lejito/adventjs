@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/22-generate-gift-combinations.test.ts"
+    "test": "jest src/tests/23-find-the-missing-numbers.test.ts"
   },
   "keywords": [],
   "author": "",

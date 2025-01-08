@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test:all": "jest src/tests",
-    "test": "jest src/tests/25-execute-the-magical-language.test.ts"
+    "test": "jest src/tests/26-calculate-the-completed-percentage.test.ts"
   },
   "keywords": [],
   "author": "",
